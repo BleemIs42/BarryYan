@@ -1,4 +1,12 @@
-![](https://user-images.githubusercontent.com/8463435/87170047-6846a580-c303-11ea-881a-e0084823904a.png)
+#### 👋 I'm [Barry Yan](https://barryyan.github.io/), a UI Developer at @ThoughtWorks.
+
+#### 🌱 Currently learning
+- golang
+
+
+
+
+
 
 <!--
 **BarryYan/BarryYan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
