@@ -29,13 +29,9 @@
 
 🌱 I’m currently learning **`Golang`**
 
-👯 I’m looking to collaborate on ...
+👯 I’m looking to collaborate with you
 
-🤔 I’m looking for help with ...
+💬 Ask me about cultivating what is true
 
-💬 Ask me about ...
-
-😄 Pronouns: ...
-
-⚡  Fun fact: ...
+⚡  Fun fact: I am an amateur lyricist and theoretical physicist
 
