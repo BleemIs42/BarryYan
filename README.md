@@ -3,9 +3,6 @@
   Hi there 👋, I'm Barry Yan!
   <br>
 </h1>
-<h3 align="center">
-  I'm a UI Developer at <a href="https://github.com/thoughtworks">@ThoughtWorks</a>.
-</h3>
 
 <p align="center">
   <a href="https://reactjs.org/">
