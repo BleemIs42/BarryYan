@@ -25,8 +25,6 @@
   </a>
 </p>
 
-🔭 I’m currently working on **[daily-warm](https://github.com/BarryYan/daily-warm)**
-
 🌱 I’m currently learning **`Rust`**
 
 👯 I’m looking to collaborate with you
