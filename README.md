@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/Golang-00ADD8.svg?style=flat-square" alt="Golang">
   </a>
   <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/Rust-000.svg?style=flat-square" alt="Rust">
+  </a>
+  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/TypeScript-blue.svg?style=flat-square" alt="TypeScript">
   </a>
   <a href="https://reactjs.org/">
@@ -24,7 +27,7 @@
 
 🔭 I’m currently working on **[daily-warm](https://github.com/BarryYan/daily-warm)**
 
-🌱 I’m currently learning **`Golang`**
+🌱 I’m currently learning **`Rust`**
 
 👯 I’m looking to collaborate with you
 
