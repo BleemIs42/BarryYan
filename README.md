@@ -1,10 +1,4 @@
-<h1 align="center">
-<br>
-  Hi there 👋, I'm Barry Yan!
-  <br>
-</h1>
-
-<p align="center">
+<p>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-61DBFB.svg?style=flat-square" alt="React">
   </a>
@@ -22,8 +16,10 @@
   </a>    
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/Angular-dd0132.svg?style=flat-square" alt="Angular">
-  </a>
+  </a> 
 </p>
+
+[![Barry's github stats](https://github-readme-stats.vercel.app/api?username=barryyan&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning **`Rust`**
 
@@ -31,5 +27,6 @@
 
 💬 Ask me about cultivating what is true
 
-⚡  Fun fact: I am an amateur lyricist and theoretical physicist
+⚡  I am a very amateur lyricist and theoretical physicist
+
 
